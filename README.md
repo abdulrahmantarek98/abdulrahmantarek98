@@ -11,7 +11,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmantarek98&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdulrahmantarek98&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Gmail badge](https://img.shields.io/badge/Abdulrahman.Tarek-grey?style=flat&logo=gmail)](mailto:Abdulrahman.Tarek.Khattab@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Abdulrahman.Tarek.Khattab@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ESrhHiBvD/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AbdulrahmanTarek11)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bt983323)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/app/dashboard)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat&logo=burpsuite&logoColor=white)](https://portswigger.net/users/youraccount/personaldetails)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white)](https://hackerone.com/abdlrahmantarek685?type=user)
 
 </div>
 
@@ -34,7 +42,6 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
 <h2>📬 Contact Me</h2>
 
 <p>
@@ -69,6 +76,14 @@
   <img src="https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white"/>
 </a>
 </p>
+
+
+
+
+
+
+
+
 ```python
 # tools_I_use organized
 
