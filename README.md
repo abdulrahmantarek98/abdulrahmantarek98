@@ -35,14 +35,40 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Abdulrahman.Tarek.Khattab@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ESrhHiBvD/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AbdulrahmanTarek11)
+<h2>📬 Contact Me</h2>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bt983323)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/app/dashboard)
-[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat&logo=burpsuite&logoColor=white)](https://portswigger.net/users/youraccount/personaldetails)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white)](https://hackerone.com/abdlrahmantarek685?type=user)
+<p>
+<a href="mailto:Abdulrahman.Tarek.Khattab@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1ESrhHiBvD/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://t.me/AbdulrahmanTarek11">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+</a>
+</p>
+<h2>🧠 Cybersecurity Platforms</h2>
+
+<p>
+<a href="https://tryhackme.com/p/bt983323">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://academy.hackthebox.com/app/dashboard">
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black"/>
+</a>
+
+<a href="https://portswigger.net/users/youraccount/personaldetails">
+  <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=flat&logo=burpsuite&logoColor=white"/>
+</a>
+
+<a href="https://hackerone.com/abdlrahmantarek685?type=user">
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white"/>
+</a>
+</p>
 ```python
 # tools_I_use organized
 
