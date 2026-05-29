@@ -1,5 +1,10 @@
 <div align="center" width="50">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+
+<!--TERMINAL ANIMATION-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%24+whoami;Abdulrahman+Tarek;ML+%7C+Deep+Learning+%7C+Cybersecurity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%24+whoami;Abdulrahman+Tarek;ML+%7C+Deep+Learning+%7C+Cybersecurity" alt="Abdulrahman Tarek" width="60%"/>
+</picture>
   <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
   <br>
